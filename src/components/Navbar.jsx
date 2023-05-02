@@ -12,9 +12,6 @@ const Navbar = () => {
       <h1 className="text-4xl">Reacting</h1>
       <ul className="flex gap-4">
         <li>
-          <a href="#">Portfolio</a>
-        </li>
-        <li>
           <a href="#">About</a>
         </li>
         <li>
